@@ -66,6 +66,10 @@
   box-sizing: border-box;
 }
 
+.add__input:focus {
+  color: #333;
+}
+
 .list {
   margin: 0;
   padding: 0px;
@@ -115,6 +119,10 @@
   vertical-align: middle;
   outline: none;
   box-sizing: border-box;
+}
+
+.list-item__input:focus {
+  color: #333;
 }
 
 .button {
